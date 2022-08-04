@@ -11,7 +11,7 @@ The model is coded in Python 3.7, implementing health states and transition prob
 
 The Thai Pediatric and Adolescent HIV Modeling Working Group was established to review available data, provide recommendations for key input data for this model, and support development of local capacity on the use of the model. The Working Group is comprised of national AIDS program planners, U.S. CDC Thailand office members, clinicians, epidemiologists, and modelers. Model inputs, including all transition probabilities from one state to another were derived for each calendar year, age, sex, and population.
 
-<img src="images/ThailandModelFlowDiagram.png" width="850">
+<img src="images/Figure1Updated.png" width="850">
 
 ### Requirements
 
@@ -69,7 +69,7 @@ The .png files are graphs presenting the following data :
 
 
 ## Contact Information
-Please email [MPEC Programming](mpecprogramming@partnershealthcare.onmicrosoft.com) and [Sophie Desmonde](sophie.desmonde-phillips@inserm.fr) with any questions or issues with the Thailand Model. 
+Please email [MPEC Programming](mpecprogramming@partnershealthcare.onmicrosoft.com) and [Sophie Desmonde](sophie.desmonde-phillips@inserm.fr) with any questions or issues related to the Thailand Model. 
 
 
 ## License
