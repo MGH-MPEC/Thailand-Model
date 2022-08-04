@@ -24,21 +24,21 @@ See requirements.txt for more details.
 #### thailandSim.py
   - Main program that locates all input file(s) in the folder, then initializes and runs the simulation(s)
 
-#### Thai_MoH_InputSheet Master.xlsx
+#### Thai_MoH_InputSheet.xlsx
   - Blank Excel input file for you to fill out with your data. 
 
 ### Running the Model
 
-Step 1 : Create a folder in which you will save both the model and the excel input sheet.
+Step 1 : Create a folder in which you will save both the model and the Excel input sheet.
 
-Step 2 : Fill in the input sheet Thai_MoH_InputSheet Master.xlsx. There are two types of inputs :
+Step 2 : Fill in the input sheet Thai_MoH_InputSheet.xlsx. There are two types of inputs :
 -	In white and please type in the input you wish to use
 -	In orange cells, inputs are derived from annex model tools based on data validated by the Thai Working Group. These data are unpublished and available upon request.
 -	In blue cells, the input is automated following a series of calculations based on inputs you’ve already included in the model.
 
 Step 3 : Save the input sheet in the folder you created. If desired, fill out more input sheets with different datasets and save them to the same folder. 
 
-At this stage, the folder should contain the model thailandSim.py and the filled input sheets based on the Thai_MoH_InputSheet Master.xlsx template. 
+At this stage, the folder should contain the model thailandSim.py and the filled input sheet(s) based on the Thai_MoH_InputSheet.xlsx template. 
 
 Step 4 : To run from the command line, call "python thailandSim.py" from the folder containing your Excel input file(s). 
 
