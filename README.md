@@ -31,7 +31,7 @@ See requirements.txt for more details.
 
 Step 1 : Create a folder in which you will save both the model and the Excel input sheet.
 
-Step 2 : Fill in the input sheet Thai_MoH_InputSheet.xlsx. There are two types of inputs :
+Step 2 : Fill in the input sheet Thai_MoH_InputSheet.xlsx. There are three types of inputs :
 -	In white and please type in the input you wish to use
 -	In orange cells, inputs are derived from annex model tools based on data validated by the Thai Working Group. These data are unpublished and available upon request.
 -	In blue cells, the input is automated following a series of calculations based on inputs you’ve already included in the model.
