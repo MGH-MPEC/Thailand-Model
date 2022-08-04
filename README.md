@@ -68,6 +68,10 @@ The .png files are graphs presenting the following data :
 -	Number of CYHIV 0 – 25 years by calendar year according to care and risk group (excluding those aged out > 25 years)
 
 
+## Contact Information
+Please email [MPEC Programming](mpecprogramming@partnershealthcare.onmicrosoft.com) and [Sophie Desmonde](sophie.desmonde-phillips@inserm.fr) with any questions or issues with the Thailand Model. 
+
+
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
 
